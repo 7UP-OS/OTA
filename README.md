@@ -1,2 +1,2 @@
 # OTA
-AN OTA Repo for my RR OMS builds
+AN OTA Repo for 7up builds

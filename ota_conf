@@ -1,5 +1,5 @@
 ########Place in root of RR source########
-ota_url=https://raw.githubusercontent.com/7comp/OTA/n7.1/chefOTA.xml
+ota_url=https://raw.githubusercontent.com/7UP-OS/OTA/o8x/7upOTA.xml
 release_type=Stable
 device_name=ro.rr.device
 
