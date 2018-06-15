@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
-	 <serranoltexx>
-            <Filename>RR-N-MAGISK-v5.8.5-20180303-serranoltexx-gelstatset.zip</Filename>
+	 <a3y17lte>
+            <Filename>lineage-15.1-20180610-UNOFFICIAL-a3y17lte.zip</Filename>
         <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download latest RR REMIXED build">https://www.androidfilehost.com/?fid=746010030569972047
+                description="Download latest 7up build">https://gitlab.com/McFy/7up/blob/build0/lineage-15.1-20180610-UNOFFICIAL-a3y17lte.zip
 	</RomUrl>
         <OpenGappsUrl
                 id="open_gapps"
@@ -16,7 +16,25 @@
         <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View Changelog">https://github.com/7comp/android_vendor_resurrection/blob/n7.1/CHANGELOG.mkdn
+                description="View Changelog">https://github.com/7UP-OS/android_vendor_7up/blob/o8x/CHANGELOG.mkdn
+	    </ChangelogUrl>
+         </a3y17lte>
+	 <serranoltexx>
+            <Filename>RR-N-MAGISK-v5.8.5-20180303-serranoltexx-gelstatset.zip</Filename>
+        <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download latest 7up build">https://www.androidfilehost.com/?fid=746010030569972047
+	</RomUrl>
+        <OpenGappsUrl
+                id="open_gapps"
+                title="OpenGapps"
+                description="Download latest OpenGapps">http://opengapps.org
+	</OpenGappsUrl>
+        <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/7UP-OS/android_vendor_7up/blob/o8x/CHANGELOG.mkdn
 	    </ChangelogUrl>
          </serranoltexx>
     </Stable>
